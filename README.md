@@ -13,6 +13,10 @@
 
     `git add puckBregstone.py`
 
-5. Then push your changes from the index to the actual repository
+5. Commit your changes
+
+	`git commit`
+
+5. Then push your changes from the local repository to the remote repository
 
     `git push`
